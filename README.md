@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Problem solving through Python.**
 
-- 🌱 I’m currently learning **Python libraries for Data Sciene,Data Structure and Algorithms**
+- 🌱 I’m currently learning **Python libraries for Data Sciene,Data Structure and Algorithms.**
 
-- 👯 I’m looking to collaborate on **Python developer Internship**
+- 👯 I’m looking to collaborate on **Python developer Internship.**
 
-- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Data Stucture and algorithms.s**
+- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Data Stucture and algorithms.**
 
 - 📫 How to reach me **barodejay468@gmail.com**
 
